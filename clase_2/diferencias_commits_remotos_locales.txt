@@ -1,0 +1,11 @@
+¿Qué tan importante es escribir comentarios en los commits? ¿Por qué?
+
+Es bastante importante. Los comentarios en los commits sirven para dejar registro de qué hicimos y por qué. Si pasan los días (o semanas) y uno vuelve al código, ese mensaje puede ser la única pista para entender un cambio. Además, si trabajamos en equipo, es clave para que otros puedan seguir el hilo sin tener que adivinar qué hicimos.
+
+¿Por qué creés que es importante tener copias en repositorios remotos?
+
+Porque es una forma de tener respaldo y compartir el trabajo. Si se rompe la máquina, se pierde todo lo local... pero si está subido, no hay drama. También es la manera de trabajar en equipo: cada uno va subiendo sus cambios y se mantiene todo sincronizado.
+
+¿Cuál creés que es la ventaja de tener todas las versiones en una copia local?
+
+La ventaja es poder trabajar tranquilo, incluso sin conexión. Tenés todo el historial a mano, podés revisar versiones anteriores, deshacer cambios, comparar, etc. Además, es más rápido porque no depende del servidor remoto. Es como tener tu propio repositorio completo siempre listo.
